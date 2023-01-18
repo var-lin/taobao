@@ -1,0 +1,149 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "977",
+      "name": "消费者保障",
+      "font_class": "xiaofeizhebaozhang",
+      "unicode": "f0030",
+      "unicode_decimal": 983088
+    },
+    {
+      "icon_id": "978",
+      "name": "新手上路",
+      "font_class": "xinshoushanglu",
+      "unicode": "f0031",
+      "unicode_decimal": 983089
+    },
+    {
+      "icon_id": "979",
+      "name": "付款方式",
+      "font_class": "fukuanfangshi",
+      "unicode": "f0032",
+      "unicode_decimal": 983090
+    },
+    {
+      "icon_id": "980",
+      "name": "淘宝特色",
+      "font_class": "taobaotese",
+      "unicode": "f0033",
+      "unicode_decimal": 983091
+    },
+    {
+      "icon_id": "2849",
+      "name": "淘公仔",
+      "font_class": "taogongzi",
+      "unicode": "35ba",
+      "unicode_decimal": 13754
+    },
+    {
+      "icon_id": "218135",
+      "name": "淘公仔",
+      "font_class": "taogongzi1",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "608352",
+      "name": "箭头",
+      "font_class": "jiantouarrow487",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "609192",
+      "name": "箭头",
+      "font_class": "jiantouarrowhead7",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "2350027",
+      "name": "三横线",
+      "font_class": "sanhengxian",
+      "unicode": "e50c",
+      "unicode_decimal": 58636
+    },
+    {
+      "icon_id": "5208322",
+      "name": "右拉",
+      "font_class": "youla-copy",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5727113",
+      "name": "淘宝购物车",
+      "font_class": "gouwuche",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "6529908",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "7549369",
+      "name": "关闭",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "13000504",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "16171329",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "16731528",
+      "name": "下拉箭头",
+      "font_class": "ziyuan4",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18245357",
+      "name": "顶部",
+      "font_class": "dingbu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "18674736",
+      "name": "二维码",
+      "font_class": "zujian-icon-18",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "20106150",
+      "name": "淘宝直播直播标",
+      "font_class": "weibiaoti-",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "20266209",
+      "name": "拍照",
+      "font_class": "paizhao",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    }
+  ]
+}
